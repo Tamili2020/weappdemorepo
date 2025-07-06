@@ -1,0 +1,30 @@
+C:\temp\Dot net demo\bin\Debug\net8.0\appsettings.Development.json
+C:\temp\Dot net demo\bin\Debug\net8.0\appsettings.json
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.staticwebassets.runtime.json
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.exe
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.deps.json
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.runtimeconfig.json
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.dll
+C:\temp\Dot net demo\bin\Debug\net8.0\Dot net demo.pdb
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.AssemblyInfoInputs.cache
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.AssemblyInfo.cs
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.csproj.CoreCompileInputs.cache
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.RazorAssemblyInfo.cache
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.RazorAssemblyInfo.cs
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets\msbuild.Dot net demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Dot net demo.props
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Dot net demo.props
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Dot net demo.props
+C:\temp\Dot net demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\temp\Dot net demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\temp\Dot net demo\obj\Debug\net8.0\scopedcss\bundle\Dot net demo.styles.css
+C:\temp\Dot net demo\obj\Debug\net8.0\scopedcss\projectbundle\Dot net demo.bundle.scp.css
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.dll
+C:\temp\Dot net demo\obj\Debug\net8.0\refint\Dot net demo.dll
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.pdb
+C:\temp\Dot net demo\obj\Debug\net8.0\Dot net demo.genruntimeconfig.cache
+C:\temp\Dot net demo\obj\Debug\net8.0\ref\Dot net demo.dll
